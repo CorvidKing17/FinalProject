@@ -17,6 +17,10 @@ h3 {
     margin-left:20px;
 }
 
+hr {
+    color:white;
+}
+
 p {
     color:white;
 }
@@ -31,4 +35,17 @@ ol {
 
 a {
     color:aqua;
+}
+
+table {
+    color:white;
+    width:100%;
+    border-collapse: collapse;
+}
+
+th, tr, td {
+    color:white;
+    padding:8px;
+    border:1px solid white;
+    text-align: left;
 }
